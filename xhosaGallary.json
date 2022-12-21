@@ -1,0 +1,29 @@
+{
+    "artGallery": [
+        {
+            "serialNumber": "X2314-424-34232",
+            "price": 32434,
+            "imageLink": "https://i.postimg.cc/HxrH5Qkp/art1.jpg"
+        },
+        {
+            "serialNumber": "C4634-564-34622",
+            "price": 73532,
+            "imageLink": "https://i.postimg.cc/52pMRPH4/art2.jpg"
+        },
+        {
+            "serialNumber": "D7553-465-35346",
+            "price": 53462,
+            "imageLink": "https://i.postimg.cc/65wgxrxy/art3.jpg"
+        },
+        {
+            "serialNumber": "G7976-645-73522",
+            "price": 33252,
+            "imageLink": "https://i.postimg.cc/mg1QdnpM/art4.jpg"
+        },
+        {
+            "serialNumber": "Z6355-345-85734",
+            "price": 63453,
+            "imageLink": "https://i.postimg.cc/SsMhKCrH/art5.jpg"
+        }
+    ]
+}
